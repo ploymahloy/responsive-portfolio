@@ -1,0 +1,33 @@
+* {
+    margin: 0 auto;
+    font-family: monospace;
+}
+
+body {
+    background: cadetblue;
+}
+
+header,
+title {
+    font-size: 40px;
+}
+
+form {
+    display: grid;
+    margin: 3rem;
+}
+
+input, 
+button {
+    padding: 1rem 0 1rem 0;
+    box-shadow: 10px 10px 5px black;
+}
+
+label,
+button {
+    font-size: 25px;
+}
+
+.message {
+    padding: 4rem 0 3rem 0;
+}
