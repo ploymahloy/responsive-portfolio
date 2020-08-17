@@ -21,7 +21,7 @@ title {
     color: cornsilk;
 }
 
-#Menu {
+menu {
     font-size: 20px;
     padding: 1rem;
     margin: 1rem;
@@ -41,17 +41,13 @@ form {
 
 input, 
 button {
-    padding: 1rem 0 1rem 0;
+    padding: .5rem 0 .5rem 0;
     box-shadow: 5px 5px 5px grey;
-}
-
-input {
-    
 }
 
 label,
 button {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 button {
