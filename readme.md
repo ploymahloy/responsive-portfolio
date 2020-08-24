@@ -15,5 +15,15 @@ Bootstrap has a grid system that features breakpoints, allowing for built in res
 ### Extra-Small Breakpoint
 <img width="1280" alt="Screen Shot 2020-08-24 at 1 29 06 PM" src="https://user-images.githubusercontent.com/48275526/91077521-34071a00-e60f-11ea-9abb-0ebffc9a7e9b.png">
 
+As you can see above, the content within the card stacks automatically based on the size of the viewport. 
+This can be altered by using classes on the columns as follows: 
+
+`class="col-md-3"`
+`class="col-xs-12"`
+
+They can also be combined:
+
+`class="col-lg-2 col-md-3 col-sm-4 col-xs-6"`
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
